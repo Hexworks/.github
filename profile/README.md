@@ -25,16 +25,16 @@
 
   <h3>Zircon</h3>
 
-  <p>
-       Zircon is extensible, multiplatform and user-friendly tile engine. You can use it
-        if you want to create a roguelike game, since it supports ASCII and CP437 tiles.
-        If you want a more traditional tile-based game Zircon is also a good option as it
-        comes with some nice and open source graphical tilesets out of the box.
+<p>
+  Zircon is extensible, multiplatform and user-friendly tile engine. You can use it
+  if you want to create a roguelike game, since it supports ASCII and CP437 tiles.
+  If you want a more traditional tile-based game Zircon is also a good option as it
+  comes with some nice and open source graphical tilesets out of the box.
 
-        Take a look:
+  Take a look:
 
-        <img src="/assets/img/zircon_full_example.gif" alt="Zircon full example"/>
-    </p>
+  <img src="/assets/img/zircon_full_example.gif" alt="Zircon full example"/>
+</p>
 
   <h3>Mixite</h3>
 
