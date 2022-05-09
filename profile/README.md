@@ -33,7 +33,7 @@
 
   Take a look:
 
-  <img src="/assets/img/zircon_full_example.gif" alt="Zircon full example"/>
+  <img src="https://github.com/Hexworks/hexworks-site/blob/master/assets/img/zircon_full_example.gif" alt="Zircon full example"/>
 </p>
 
   <h3>Mixite</h3>
