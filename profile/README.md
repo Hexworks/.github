@@ -6,7 +6,7 @@
     on indie and roguelike games. We'd like to see these communities thrive and to make the lives of those developers easier.
 </p>
 <p>
-    That's why we are also working on toos which help with these, like:
+    That's why we are also working on tools which help with these, like:
     the <a href="https://hexworks.org/projects/zircon/">Zircon tile engine</a>,
     the <a href="https://github.com/Hexworks/microcline">Microcline Art Studio</a>,
     the <a href="https://github.com/Hexworks/mixite">Mixite hexagonal grid library</a>,
